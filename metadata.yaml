@@ -1,10 +1,16 @@
 _repo: An-Essay-on-Contagious-Diseases-more-particularly-on-the-small-pox-measles-putrid-malignant-a__49319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wintringham, Clifton
     gutenberg_agent_id: '45255'
     url: http://www.gutenberg.org/2009/agents/45255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49319#An-Essay-on-Contagious-Diseases-more-particularly-on-the-small-pox-measles-putrid-malignant-a_
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
